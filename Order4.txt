@@ -1,0 +1,5 @@
+Order Id: 4
+Product Id: 1
+Client Id: 1
+Quantity: 1
+Total price: 1900.0
